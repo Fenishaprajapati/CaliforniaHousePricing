@@ -7,3 +7,8 @@ matplotlib
 #in future if you want to install all the libraries
 #contained by one file in one go then use 
 #pip intall -r requirements.txt 
+
+#git add .
+#git status
+#git commint -m "commit message"
+#git push origin main
