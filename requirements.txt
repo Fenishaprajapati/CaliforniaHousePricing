@@ -3,6 +3,7 @@ scikit-learn
 pandas 
 numpy
 matplotlib
+gunicorn
 
 #in future if you want to install all the libraries
 #contained by one file in one go then use 
